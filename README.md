@@ -5,7 +5,7 @@ Welcome to the open-source release of the core Sovereign Alpha 4D scoring algori
 ## What is Sovereign Alpha?
 Sovereign Alpha is an institutional intelligence operating system that helps professional investors identify variant perception, hidden risks, and non-consensus opportunities. It combines forensic equity research, portfolio intelligence, thesis tracking, and cryptographically verifiable predictions.
 
-Check out the live platform here: [Sovereign Alpha Platform](https://huggingface.co/spaces/Raja549h/Sovereign-Alpha)
+Check out the live platform here: [Sovereign Alpha Platform](https://huggingface.co/spaces/svrn-alpha/sovereignalpha)
 
 ## Installation
 
